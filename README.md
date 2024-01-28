@@ -1,4 +1,4 @@
-# battery-Charger-Tracker:🔋
+# battery-Charger-Animation:🔋
 Animation of battery charger .
 # Tech Stack :🖥️
 - `HTML`<br/>
